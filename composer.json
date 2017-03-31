@@ -1,5 +1,6 @@
 {
     "require": {
-        "monolog/monolog": "~1.17"
+        "monolog/monolog": "~1.17",
+        "sentry/sentry": "^1.6"
     }
 }
